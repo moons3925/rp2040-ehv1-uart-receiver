@@ -13,4 +13,4 @@ embedded-hal Ver1.0.0 に対応したコードです。
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　UARTのリングバッファをembedded-hal Ver1.0.0 に更新する](https://moons.link/pico/post-1446/)
+[ラズピコでRust(14)　UARTのリングバッファをembedded-hal Ver1.0.0 に更新する](https://moons.link/pico/post-1446/)
