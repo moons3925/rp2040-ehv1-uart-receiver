@@ -1,5 +1,6 @@
 # ラズピコでRust
 UARTの受信をリングバッファを使って処理するコードです。
+embedded-hal Ver1.0.0 に対応したコードです。
 
 ## setting.json
 
@@ -12,4 +13,4 @@ UARTの受信をリングバッファを使って処理するコードです。
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　UARTでリングバッファを使ってみる](https://moons.link/pico/post-1282/)
+[ラズピコでRust　UARTのリングバッファをembedded-hal Ver1.0.0 に更新する](https://moons.link/pico/post-1446/)
